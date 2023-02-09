@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rate_cards/static/css/main.a2ed196f.css",
+    "main.js": "/Rate_cards/static/js/main.f367f435.js",
+    "static/js/787.efb88e1f.chunk.js": "/Rate_cards/static/js/787.efb88e1f.chunk.js",
+    "index.html": "/Rate_cards/index.html",
+    "main.a2ed196f.css.map": "/Rate_cards/static/css/main.a2ed196f.css.map",
+    "main.f367f435.js.map": "/Rate_cards/static/js/main.f367f435.js.map",
+    "787.efb88e1f.chunk.js.map": "/Rate_cards/static/js/787.efb88e1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ed196f.css",
+    "static/js/main.f367f435.js"
+  ]
+}
